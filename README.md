@@ -1,7 +1,7 @@
 <h1>Basic DevOps Pipeline</h1>
 
 <h2>Description</h2>
-In this project, we will be creating a basic DevOps pipeline all the way from making a code change to deploying that change to a production environment. THe change we will be making is changing the header text on our page from "DevOps is Great!" to "DevOps is Awesome!"
+In this project, we will be creating a basic DevOps pipeline all the way from making a code change to deploying that change to a production environment. The change we will be making is changing the header text on our page from "DevOps is Great!" to "DevOps is Awesome!"
 <img src="https://imgur.com/Jk68Xzw.png" height="60%" width="60%" />
 <br />
  - Let me go over the tools we will be utilizing in this project.
